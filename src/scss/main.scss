@@ -1,0 +1,21 @@
+// Settings - colors, metrics variables and stuff
+@import "./settings/colors.scss";
+@import "./settings/fonts.scss";
+@import "./settings/metrics.scss";
+
+// Tools - mixins and functions
+
+// Generic - reset css and helpers
+@import "./generic/reset.scss";
+
+// Base - basic styles direct in tag selector
+
+// Objects - little components like buttons, cards, panels
+
+// Components
+
+// Layout
+@import "./layout/base.scss";
+
+
+// Trumps - helpers and !important things needed
