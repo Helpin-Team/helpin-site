@@ -1,0 +1,50 @@
+.side-bar {
+    position: fixed;
+    bottom: 100px;
+    left: 20px;
+
+    > .menu {
+        > .item {
+            transform: rotate(.75turn);
+
+            padding: 20px 0 60px 0;
+            margin-bottom: 20px;
+
+            font-size: 18px;
+            letter-spacing: 0.25rem;
+            color: rgba(#FFF, .5);
+            cursor: pointer;
+            transition: .3s;
+
+            &:hover {
+                color: rgba(#FFF, .85);
+                transition: .3s;
+            }
+        }
+    }
+
+    > .social {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        width: 60%;
+        height: 90px;
+
+        > .link {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+            border-radius: 100%;
+            box-shadow: 0 0 16px rgba(#000, .25);
+
+            &.-instagram { background: linear-gradient($secondary, $danger); }
+
+            &.-facebook { background: linear-gradient($primary, $lighBlue); }
+
+            > img { height: 30px; }
+        }
+    }
+}
