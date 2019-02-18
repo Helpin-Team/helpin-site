@@ -3,6 +3,12 @@
     bottom: 100px;
     left: 20px;
 
+    @media screen and (max-width: 1024px) {
+        left: unset;
+        right: -36px;
+        bottom: 20px;
+    }
+
     > .menu {
         > .item {
             transform: rotate(.75turn);

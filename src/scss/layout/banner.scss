@@ -73,8 +73,8 @@
             width: 40%;
             
             @media screen and (max-width: 1024px) { 
-                align-self: center;
-                width: 80%;
+                align-self: flex-start;
+                width: 89%;
             }
             
             > .mockup {
