@@ -16,15 +16,19 @@
             padding: 20px 0 60px 0;
             margin-bottom: 20px;
 
-            font-size: 18px;
-            letter-spacing: 0.25rem;
-            color: rgba(#FFF, .5);
-            cursor: pointer;
-            transition: .3s;
+            > a {
 
-            &:hover {
-                color: rgba(#FFF, .85);
+                font-size: 18px;
+                letter-spacing: 0.25rem;
+                color: rgba(#FFF, .5);
+                text-decoration: none;
+                cursor: pointer;
                 transition: .3s;
+
+                &:hover {
+                    color: rgba(#FFF, .85);
+                    transition: .3s;
+                }
             }
         }
     }
