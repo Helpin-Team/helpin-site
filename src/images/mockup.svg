@@ -1,0 +1,244 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 429 861.999">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="screen" d="M335,884H40A39.966,39.966,0,0,1,0,844V112A39.967,39.967,0,0,1,40,72H78a5.007,5.007,0,0,1,5,4.91V80a21.982,21.982,0,0,0,22,22H272a19.984,19.984,0,0,0,20-20V77a5.006,5.006,0,0,1,4.995-5H335a39.967,39.967,0,0,1,40,40V844a39.966,39.966,0,0,1-40,40Z" transform="translate(270 172)" fill="#424256"/>
+    </clipPath>
+
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_13" data-name="Retângulo 13" width="375" height="812"/>
+    </clipPath>
+
+    <linearGradient id="linear-gradient" x1="0.486" x2="0.479" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#648dff"/>
+      <stop offset="0.696" stop-color="#648dff"/>
+      <stop offset="1" stop-color="#94ece3"/>
+    </linearGradient>
+
+    <linearGradient id="linear-gradient-2" x1="0.011" y1="0.088" x2="0.981" y2="0.879" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a574f1"/>
+      <stop offset="1" stop-color="#648ef2"/>
+    </linearGradient>
+
+    <filter id="Caminho_1" x="57" y="339" width="316" height="76" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#333" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+
+    <filter id="Retângulo_3" x="369" y="132" width="298" height="148" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#333" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+
+    <filter id="Retângulo_4" x="-237" y="132" width="298" height="148" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#333" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+
+    <filter id="Retângulo_5" x="66" y="132" width="298" height="148" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#333" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+
+    <linearGradient id="linear-gradient-3" y1="1" x2="1" y2="0.085" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#648dff"/>
+      <stop offset="1" stop-color="#94ece3"/>
+    </linearGradient>
+
+    <filter id="Retângulo_6" x="204" y="423" width="193" height="99" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#648ef2" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+
+    <linearGradient id="linear-gradient-4" x1="1" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a574f1"/>
+      <stop offset="1" stop-color="#f27878"/>
+    </linearGradient>
+
+    <filter id="Retângulo_7" x="38" y="429" width="181" height="87" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#648dff" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f27878"/>
+      <stop offset="1" stop-color="#efd982"/>
+    </linearGradient>
+
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9aec94"/>
+      <stop offset="1" stop-color="#94ece3"/>
+    </linearGradient>
+
+    <linearGradient id="linear-gradient-8" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#94ece9"/>
+      <stop offset="1" stop-color="#648dff"/>
+    </linearGradient>
+
+    <filter id="Elipse_3" x="185" y="753" width="60" height="60" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#648ef2" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  
+  <g id="black-mockup" transform="translate(-243 -219)">
+    <g id="phone">
+      <path id="body" d="M64-123A60,60,0,0,1,4-183V-667a4,4,0,0,1-4-4v-54a4,4,0,0,1,4-4v-16a4,4,0,0,1-4-4v-54a4,4,0,0,1,4-4v-30a4,4,0,0,1-4-4v-24a4,4,0,0,1,4-4v-56a60,60,0,0,1,60-60H365a60,60,0,0,1,60,60v139a4,4,0,0,1,4,4v90a4,4,0,0,1-4,4v505a60,60,0,0,1-60,60Z" transform="translate(243 1204)" fill="#222"/>
+      <path id="camera" d="M114-960a6,6,0,0,1,6-6,6,6,0,0,1,6,6,6,6,0,0,1-6,6A6,6,0,0,1,114-960Zm-64,3a3,3,0,0,1-3-3,3,3,0,0,1,3-3H97a3,3,0,0,1,3,3,3,3,0,0,1-3,3Z" transform="translate(384 1213)" fill="#424256"/>
+    </g>
+
+    <g id="YOUR_DESIGN" data-name="YOUR DESIGN" clip-path="url(#clip-path)">
+      <g id="iPhone_X-XS_1" data-name="iPhone X-XS – 1" transform="translate(270 244)" clip-path="url(#clip-path-2)">
+        <rect id="Retângulo_1" data-name="Retângulo 1" width="375" height="812" fill="#333"/>
+        <rect id="Retângulo_2" data-name="Retângulo 2" width="375" height="352" fill="url(#linear-gradient)"/>
+        <g id="Agrupar_1" data-name="Agrupar 1" transform="translate(0 76)">
+          <g transform="matrix(1, 0, 0, 1, -27, -101)" filter="url(#Caminho_1)">
+            <path id="Caminho_1-2" data-name="Caminho 1" d="M20,0H260a20,20,0,0,1,0,40H20A20,20,0,0,1,20,0Z" transform="translate(75 357)" fill="url(#linear-gradient-2)"/>
+          </g>
+
+          <text id="tirar_duvida_no_chat" data-name="tirar duvida no chat" transform="translate(68 279)" fill="#f5f5f5" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">tirar duvida no chat</tspan></text>
+
+          <text id="_10" data-name="10" transform="translate(277 280)" fill="#f5f5f5" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">10</tspan></text>
+
+          <g id="Elipse_1" data-name="Elipse 1" transform="translate(296 270)" fill="#9aec94" stroke="rgba(51,51,51,0.33)" stroke-width="1">
+            <circle cx="6" cy="6" r="6" stroke="none"/>
+            <circle cx="6" cy="6" r="5.5" fill="none"/>
+          </g>
+        </g>
+
+        <g id="Agrupar_3" data-name="Agrupar 3" transform="translate(0 43)">
+          <g transform="matrix(1, 0, 0, 1, -27, -68)" filter="url(#Retângulo_3)">
+            <rect id="Retângulo_3-2" data-name="Retângulo 3" width="280" height="130" rx="6" transform="translate(378 141)" fill="#333"/>
+          </g>
+
+          <g transform="matrix(1, 0, 0, 1, -27, -68)" filter="url(#Retângulo_4)">
+            <rect id="Retângulo_4-2" data-name="Retângulo 4" width="280" height="130" rx="6" transform="translate(-228 141)" fill="#333"/>
+          </g>
+
+          <g transform="matrix(1, 0, 0, 1, -27, -68)" filter="url(#Retângulo_5)">
+            <rect id="Retângulo_5-2" data-name="Retângulo 5" width="280" height="130" rx="6" transform="translate(75 141)" fill="#333"/>
+          </g>
+
+          <text id="_06_fev_2019_10:00" data-name="06 fev 2019 10:00" transform="translate(246 191)" fill="rgba(255,255,255,0.27)" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">06 fev 2019 10:00</tspan></text>
+
+          <text id="Gabriel_Dissotti" data-name="Gabriel Dissotti" transform="translate(68 191)" fill="rgba(255,255,255,0.27)" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Gabriel Dissotti</tspan></text>
+
+          <text id="Aula_sobre_rotas_sobre_o_funcionamento_e_sobre_componentização_no_react_native_como_arrumar_o_ambiente_para_começar_o_desenvolvimento." data-name="Aula sobre rotas sobre o funcionamento e sobre componentização no react native, como arrumar o ambiente para começar o desenvolvimento." transform="translate(68 121)" fill="rgba(245,245,245,0.7)" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Aula sobre rotas sobre o funcionamento e sobre componentização </tspan><tspan x="0" y="12">no react native, como arrumar o ambiente para começar o </tspan><tspan x="0" y="24">desenvolvimento.</tspan></text>
+          
+          <text id="Aula_de_react_native_basico" data-name="Aula de react native basico" transform="translate(68.09 96)" fill="#f5f5f5" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Aula de react native basico</tspan></text>
+
+          <path id="Caminho_2" data-name="Caminho 2" d="M-4970,1119.9h240" transform="translate(5037.999 -1015.904)" fill="rgba(255,255,255,0.1)" stroke="rgba(245,245,245,0.12)" stroke-width="1"/>
+
+          <g id="Agrupar_2" data-name="Agrupar 2" transform="translate(2 1)">
+            <path id="Caminho_3" data-name="Caminho 3" d="M8.59,14.567l3.71-3.709L8.59,7.142,9.732,6l4.858,4.858L9.732,15.717Z" transform="translate(291.41 79)" fill="#454545"/>
+          </g>
+        </g>
+
+        <g id="Agrupar_7" data-name="Agrupar 7" transform="translate(3 26)">
+          <g id="Agrupar_4" data-name="Agrupar 4" transform="translate(-3 -2)">
+            <text id="Efraim_de_Andrade_Morais_Junior" data-name="Efraim de Andrade Morais Junior" transform="translate(57 33)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Efraim de Andrade Morais Junior</tspan></text>
+
+            <text id="Analise_e_desenvolvimento_de_sistemas" data-name="Analise e desenvolvimento de sistemas" transform="translate(58 46)" fill="#f5f5f5" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Analise e desenvolvimento de sistemas</tspan></text>
+          </g>
+
+          <g id="Agrupar_5" data-name="Agrupar 5" transform="translate(0 1)">
+            <path id="Caminho_4" data-name="Caminho 4" d="M12,15.5A3.5,3.5,0,1,1,15.5,12,3.5,3.5,0,0,1,12,15.5m7.43-2.53A7.77,7.77,0,0,0,19.5,12a8.552,8.552,0,0,0-.07-1l2.11-1.63a.5.5,0,0,0,.12-.64l-2-3.46a.492.492,0,0,0-.61-.22l-2.49,1a7.249,7.249,0,0,0-1.69-.98L14.5,2.42A.506.506,0,0,0,14,2H10a.506.506,0,0,0-.5.42L9.13,5.07a7.249,7.249,0,0,0-1.69.98l-2.49-1a.492.492,0,0,0-.61.22l-2,3.46a.493.493,0,0,0,.12.64L4.57,11a8.551,8.551,0,0,0-.07,1,7.77,7.77,0,0,0,.07.97L2.46,14.63a.493.493,0,0,0-.12.64l2,3.46a.5.5,0,0,0,.61.22l2.49-1.01a6.945,6.945,0,0,0,1.69.99l.37,2.65A.506.506,0,0,0,10,22h4a.506.506,0,0,0,.5-.42l.37-2.65a7.282,7.282,0,0,0,1.69-.99l2.49,1.01a.5.5,0,0,0,.61-.22l2-3.46a.5.5,0,0,0-.12-.64Z" transform="translate(331.729 19)" fill="#333"/>
+          </g>
+
+          <g id="Agrupar_6" data-name="Agrupar 6" transform="translate(-1)">
+            <circle id="Elipse_2" data-name="Elipse 2" cx="18" cy="18" r="18" transform="translate(16 14)" fill="#9aec94"/>
+            <text id="EA" transform="translate(25.293 38)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">EA</tspan></text>
+          </g>
+        </g>
+
+        <g id="Agrupar_8" data-name="Agrupar 8" transform="translate(0 97)">
+          <g transform="matrix(1, 0, 0, 1, -27, -122)" filter="url(#Retângulo_6)">
+            <rect id="Retângulo_6-2" data-name="Retângulo 6" width="163" height="69" rx="34.5" transform="translate(219 438)" fill="url(#linear-gradient-3)"/>
+          </g>
+
+          <g transform="matrix(1, 0, 0, 1, -27, -122)" filter="url(#Retângulo_7)">
+            <rect id="Retângulo_7-2" data-name="Retângulo 7" width="163" height="69" rx="34.5" transform="translate(47 438)" fill="url(#linear-gradient-4)"/>
+          </g>
+
+          <text id="ajudar" transform="translate(71.676 358)" fill="#f5f5f5" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">ajudar</tspan></text>
+
+          <text id="perguntar" transform="translate(226.405 358)" fill="#f5f5f5" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">perguntar</tspan></text>
+        </g>
+
+        <g id="Agrupar_10" data-name="Agrupar 10" transform="translate(2 118)">
+          <text id="Minhas_duvidas" data-name="Minhas duvidas" transform="translate(20 418)" fill="#f5f5f5" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Minhas duvidas</tspan></text>
+
+          <path id="Caminho_5" data-name="Caminho 5" d="M8.59,20.278,14.771,14.1,8.59,7.9,10.49,6l8.1,8.1-8.1,8.1Z" transform="translate(333.171 398.903)" fill="url(#linear-gradient-5)"/>
+
+          <rect id="Retângulo_8" data-name="Retângulo 8" width="335" height="69" rx="6" transform="translate(20 510)" fill="#454545"/>
+
+          <rect id="Retângulo_9" data-name="Retângulo 9" width="8" height="42" rx="3" transform="translate(16 524)" fill="url(#linear-gradient-6)"/>
+
+          <g id="Agrupar_9" data-name="Agrupar 9" transform="translate(-2 11)">
+            <text id="Como_fazer_este_calculo_miraculoso_" data-name="Como fazer este calculo miraculoso ?" transform="translate(41 523)" fill="#f5f5f5" font-size="10" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Como fazer este calculo miraculoso ?</tspan></text>
+
+            <text id="_25_jan_2019_19:10" data-name="25 jan 2019 19:10" transform="translate(274.746 523)" fill="#f5f5f5" font-size="8" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" opacity="0.85"><tspan x="0" y="0">25 jan 2019 19:10</tspan></text>
+
+            <path id="Caminho_6" data-name="Caminho 6" d="M-4970,1117.5h295" transform="translate(5010 -581)" fill="rgba(255,255,255,0.1)" stroke="rgba(245,245,245,0.12)" stroke-width="1"/>
+
+            <text id="respondido" transform="translate(40 554)" fill="#f5f5f5" font-size="8" font-family="SegoeUI-LightItalic, Segoe UI" font-weight="300" font-style="italic" letter-spacing="0.07em"><tspan x="0" y="0">respondido</tspan></text>
+          </g>
+
+          <rect id="Retângulo_10" data-name="Retângulo 10" width="335" height="69" rx="6" transform="translate(20 431)" fill="#454545"/>
+
+          <rect id="Retângulo_11" data-name="Retângulo 11" width="8" height="42" rx="3" transform="translate(16 445)" fill="url(#linear-gradient-7)"/>
+
+          <text id="Problema_para_configurar_react_native" data-name="Problema para configurar react native" transform="translate(41 452)" fill="#f5f5f5" font-size="10" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Problema para configurar react native</tspan></text>
+
+          <text id="_27_jan_2019_15:24" data-name="27 jan 2019 15:24" transform="translate(273.531 452)" fill="#f5f5f5" font-size="8" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" opacity="0.85"><tspan x="0" y="0">27 jan 2019 15:24</tspan></text>
+
+          <path id="Caminho_7" data-name="Caminho 7" d="M-4970,1117.5h295" transform="translate(5010 -652)" fill="rgba(255,255,255,0.1)" stroke="rgba(245,245,245,0.12)" stroke-width="1"/>
+
+          <text id="em_aberto" data-name="em aberto" transform="translate(40 483)" fill="#f5f5f5" font-size="8" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic" letter-spacing="0.07em"><tspan x="0" y="0">em aberto</tspan></text>
+
+          <text id="Análise_e_desenvolvimento_de_sistemas" data-name="Análise e desenvolvimento de sistemas" transform="translate(197.371 485)" fill="#9aec94" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Análise e desenvolvimento de sistemas</tspan></text>
+          
+          <text id="Análise_e_desenvolvimento_de_sistemas-2" data-name="Análise e desenvolvimento de sistemas" transform="translate(195.371 565)" fill="#9aec94" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Análise e desenvolvimento de sistemas</tspan></text>
+        </g>
+        
+        <g id="Agrupar_13" data-name="Agrupar 13" transform="translate(0 145)">
+          <rect id="Retângulo_12" data-name="Retângulo 12" width="375" height="62" transform="translate(0 605)" fill="#454545"/>
+
+          <g id="Agrupar_11" data-name="Agrupar 11" transform="translate(0 -10)">
+            <g transform="matrix(1, 0, 0, 1, -27, -160)" filter="url(#Elipse_3)">
+              <circle id="Elipse_3-2" data-name="Elipse 3" cx="21" cy="21" r="21" transform="translate(194 762)" fill="url(#linear-gradient-8)"/>
+            </g>
+            <path id="Caminho_8" data-name="Caminho 8" d="M19,13H13v6H11V13H5V11h6V5h2v6h6Z" transform="translate(200 611) rotate(90)" fill="#fff"/>
+          </g>
+
+          <path id="Caminho_9" data-name="Caminho 9" d="M10.25,15.5h7.5V23H21.5V11.75L14,6.125,6.5,11.75V23h3.75V15.5M4,25.5v-15L14,3l10,7.5v15Z" transform="translate(66 618)" fill="url(#linear-gradient-8)"/>
+          
+          <g id="Agrupar_12" data-name="Agrupar 12" transform="translate(21 -11)">
+            <path id="Caminho_10" data-name="Caminho 10" d="M20.778,21V8.778H5.222V21H20.778M17.444,1h2.222V3.222h1.111A2.222,2.222,0,0,1,23,5.444V21a2.222,2.222,0,0,1-2.222,2.222H5.222A2.222,2.222,0,0,1,3,21V5.444A2.215,2.215,0,0,1,5.222,3.222H6.333V1H8.556V3.222h8.889V1m-10,10H9.667v2.222H7.444V11m8.889,0h2.222v2.222H16.333V11m-4.444,4.444h2.222v2.222H11.889V15.444m4.444,0h2.222v2.222H16.333Z" transform="translate(261 631)" fill="rgba(255,255,255,0.5)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
