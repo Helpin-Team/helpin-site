@@ -17,6 +17,7 @@
             margin-bottom: 20px;
 
             > a {
+                position: relative;
 
                 font-size: 18px;
                 letter-spacing: 0.25rem;
@@ -25,9 +26,29 @@
                 cursor: pointer;
                 transition: .3s;
 
+                &:before {
+                    position: absolute;
+                    left: 0;
+                    bottom: -6px;
+
+                    display: block;
+                    width: 0;
+                    height: 1px;
+
+                    background: $white_50;
+                    transition: .3s;
+                    content: "";
+                }
+                
                 &:hover {
                     color: rgba(#FFF, .85);
                     transition: .3s;
+
+                    &:before {
+                        width: 100%;
+    
+                        transition: .3s;
+                    }
                 }
             }
         }
